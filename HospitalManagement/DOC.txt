@@ -1,0 +1,7 @@
+Dr.Adithya Dermatology 1
+Dr.Mallik Orthopaedics 1
+Dr.Vishruth Opthamology 1
+Dr.Sathvik Cardiology 1
+Dr.Nikhil General_Medicine 0
+Dr.Vishal Urology 1
+Dr.Shreyas Oncology 1
